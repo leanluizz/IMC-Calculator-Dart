@@ -55,4 +55,5 @@ Para usar o aplicativo, siga estas etapas:
 ## Contato do Desenvolvedor
 
  email: luizzleandro827@gmail.com
+ 
  linkedin: [leandroluizz](https://www.linkedin.com/in/leandroluizz/)
