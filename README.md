@@ -39,9 +39,9 @@ Para usar o aplicativo, siga estas etapas:
     ```bash
     Digite seu peso por favor:
     ```
+    
 4. Por fim pedirá sua altura:
-
-  !ATENÇÃO A ALTURA TEM QUE VIR COM UM '.' DEPOIS DO NÚMERO DE METROS
+### !ATENÇÃO A ALTURA TEM QUE VIR COM UM '.' DEPOIS DO NÚMERO DE METROS
 
     ```bash
     Digite sua altura por favor:
