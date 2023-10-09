@@ -45,6 +45,8 @@ Para usar o aplicativo, siga estas etapas:
     ```bash
     Digite sua altura por favor:
     ```
+    
+ !ATENÇÃO A ALTURA TEM QUE VIR COM UM '.' DEPOIS DO NÚMERO DE METROS
 
 ## Conclusão
 
