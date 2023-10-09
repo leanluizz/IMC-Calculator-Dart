@@ -48,12 +48,12 @@ Para usar o aplicativo, siga estas etapas:
     
  !ATENÇÃO A ALTURA TEM QUE VIR COM UM '.' DEPOIS DO NÚMERO DE METROS
 
-## Conclusão
-
- Projeto foi criado como intuito de estudo e praticar dart com POO, obrigado por ler até aqui e utilizar o projeto!
-
 ## Contato do Desenvolvedor
 
  email: luizzleandro827@gmail.com
- 
+
  linkedin: [leandroluizz](https://www.linkedin.com/in/leandroluizz/)
+
+ ## Conclusão
+
+ Projeto foi criado como intuito de estudo e praticar dart com POO, obrigado por ler até aqui e utilizar o projeto!
