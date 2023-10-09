@@ -43,7 +43,7 @@ Para usar o aplicativo, siga estas etapas:
 
   (!ATENÇÃO A ALTURA TEM QUE VIR COM UM '.' DEPOIS DO NÚMERO DE METROS)
 
-      ```bash
+    ```bash
     Digite sua altura por favor:
     ```
 
