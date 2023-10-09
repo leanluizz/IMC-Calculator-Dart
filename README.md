@@ -8,6 +8,8 @@ O Aplicativo Calculadora de IMC é uma ferramenta simples que permite aos usuár
 
 Para usar o aplicativo, siga estas etapas:
 
+ [Instalação do Dart](https://dart.dev/get-dart)
+
 1. Clone o repositório para o seu computador:
 
    ```bash
@@ -18,9 +20,38 @@ Para usar o aplicativo, siga estas etapas:
     ```bash
     cd IMC-Calculator-Dart
     ```
-3. Altere no código o nome
-4. Execute o aplicativo:
+## Formas de uso
+
+1. Execute o aplicativo:
 
     ```bash
     dart run bin/main.dart
     ```
+
+2. De primeira pergunta ira pedir seu nome:
+
+    ```bash
+    Digite seu nome por favor:
+    ```
+
+3. Depois pedira seu peso:
+
+    ```bash
+    Digite seu peso por favor:
+    ```
+4. Por fim pedirá sua altura:
+
+  (!ATENÇÃO A ALTURA TEM QUE VIR COM UM '.' DEPOIS DO NÚMERO DE METROS)
+
+      ```bash
+    Digite sua altura por favor:
+    ```
+
+## Conclusão
+
+ Projeto foi criado como intuito de estudo e praticar dart com POO, obrigado por ler até aqui e utilizar o projeto!
+
+## Contato do Desenvolvedor
+
+ email: luizzleandro827@gmail.com
+ linkedin: [leandroluizz](https://www.linkedin.com/in/leandroluizz/)
